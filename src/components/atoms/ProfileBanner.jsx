@@ -3,7 +3,7 @@ export const ProfileBanner = () => {
     <div className="bg-purple-600 p-10 flex items-end">
       <div className="p-5">
         <img
-          src={"https://robohash.org/sanket"}
+          src={"https://robohash.org/swarup"}
           className={`w-40 h-40 shadow-2xl rounded-full`}
         />
       </div>
